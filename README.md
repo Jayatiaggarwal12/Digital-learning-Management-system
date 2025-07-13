@@ -22,3 +22,31 @@ Admin: Manage users, monitor system activity, moderate content.
 
 Impact:
 Created a scalable, user-friendly platform to streamline academic workflows, enhance communication, and centralize student progress tracking.
+
+## 🖼️ LMS Application Screenshots
+
+### 🏠 Homepage
+![Homepage](homepage.png)
+
+### 🧑‍💼 Role Selection
+![Role Selection](role%20selection.png)
+
+### 🎓 Student Dashboard
+![Student Dashboard](studentDashboard.png)
+
+### 👩‍🏫 Teacher Dashboard
+![Teacher Dashboard](teacherDashboard.png)
+
+### 📅 Attendance Entry
+![Attendance Entry](attendanceEntry.png)
+
+### 📚 Courses Page
+![Courses](courses.png)
+
+### 📝 Grading Panel
+![Grading](grading.png)
+
+### ⚙️ Settings Page
+![Settings](settings.png)
+
+
